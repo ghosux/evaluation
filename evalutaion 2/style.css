@@ -1,0 +1,34 @@
+.carousel-indicators li {
+    background-color: DimGray;
+}
+
+.carousel-indicators>.active {
+    background-color: silver;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-color: silver;
+}
+
+.content {
+    background-color: white;
+    padding: 40px 0;
+    margin-left: 10;
+}
+
+.content h2 {
+    font-size: 2rem;
+    color: #131313;
+}
+
+.content p {
+    font-size: 1.1rem;
+    margin-top: 20px;
+    color: #272727;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
